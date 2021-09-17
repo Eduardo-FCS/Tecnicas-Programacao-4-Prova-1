@@ -2,3 +2,53 @@
     padding: 0px;
     margin: 0px;
 }
+
+#prime {
+    margin-top: 15px;
+    margin-left: 250px;
+    width: 750px;
+    height: 400px;
+    display: block;
+    text-align: center;
+    border: 1px solid black;
+}
+
+table {
+    display: inline-block;  
+    border-collapse: collapse;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+.sombreado {
+    background-color: rgb(187, 184, 184);
+}
+
+img {
+    width: 350px;
+    height: auto;
+}
+
+#a1 {
+    padding: 0 100px;
+    
+}
+
+
+#a2 {
+    padding: 0 40px;
+}
+
+#a3 {
+    padding: 0 40px;
+}
+
+#a4 {
+    padding: 0 60px;
+}
+
